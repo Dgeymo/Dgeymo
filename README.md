@@ -50,6 +50,8 @@ Actualmente curso el **quinto semestre**, con experiencia en **desarrollo Full S
 - [Obligatorio Programación 3](https://github.com/Dgeymo/Obligatorio_Programaccion3) – Arquitectura distribuida con WebAPI y UML.  
 - [Obligatorio Full Stack – BackEnd](https://github.com/Dgeymo/Obligatorio_FullStack_BackEnd) – API REST con Node.js, Express y MongoDB.  
 - [Obligatorio Full Stack – FrontEnd](https://github.com/Dgeymo/Obligatorio_FullStack_FrontEnd) – Interfaz en React conectada al backend.  
+- [Obligatorio Algoritmos y Estructuras de Datos](https://github.com/Dgeymo/Obligatorio_Algoritmos_y_Estructuras_de_Datos) – Sistema de eventos en Java con listas, pilas, colas y pruebas unitarias con JUnit.  
+- [Obligatorio Diseño de Aplicaciones](https://github.com/Dgeymo/Obligatorio_Diseno_Aplicaciones) – Sistema de peajes en Java con arquitectura MVC, patrones de diseño y actualizaciones en tiempo real vía SSE.  
 
 ---
 
