@@ -38,11 +38,6 @@ Actualmente curso el **quinto semestre**, con experiencia en **desarrollo Full S
 
 ---
 
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dgeymo&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dgeymo&layout=compact&theme=tokyonight)
-
----
 
 ## 📂 Proyectos destacados
 - [Obligatorio Programación 1](https://github.com/Dgeymo/Obligatorio_Programacion1) – E‑commerce deportivo en JavaScript.  
