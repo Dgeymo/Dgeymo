@@ -3,7 +3,7 @@
 ### Analista en Tecnologías de la Información | ORT Uruguay
 
 Soy estudiante avanzado de **Analista en Tecnologías de la Información** en la Universidad ORT Uruguay.  
-Actualmente curso el **quinto semestre**, con experiencia en **desarrollo Full Stack**, **arquitecturas multicapa** y **tecnologías modernas** como **React, Node.js, Express, MongoDB Atlas y .NET**.  
+Actualmente curso el **sexto semestre**, con experiencia en **desarrollo Full Stack**, **arquitecturas modernas** y **tecnologías** como **React, Node.js, Express, MongoDB Atlas y .NET**.  
 
 ---
 
