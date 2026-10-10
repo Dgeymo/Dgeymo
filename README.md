@@ -81,6 +81,4 @@
 - GitHub: [@Dgeymo](https://github.com/Dgeymo)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dgeymo&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Dgeymo&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dgeymo&layout=compact&theme=tokyonight)
