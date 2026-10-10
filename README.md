@@ -1,9 +1,10 @@
-# Diego Geymonat
+# Hola 👋, soy Diego Geymonat
 
-### Analista en Tecnologías de la Información | ORT Uruguay
+🎓 Estudiante de Analista en Tecnologías de la Información en ORT Uruguay.
 
-Soy estudiante avanzado de **Analista en Tecnologías de la Información** en la Universidad ORT Uruguay.  
-Actualmente curso el **sexto semestre**, con experiencia en **desarrollo Full Stack**, **arquitecturas modernas** y **tecnologías** como **React, Node.js, Express, MongoDB Atlas y .NET**.  
+💻 Desarrollo aplicaciones Full Stack utilizando .NET, Java, React, Node.js y bases de datos relacionales y NoSQL.
+
+🏗️ Interesado en arquitectura de software, sistemas distribuidos, DevOps y diseño de soluciones.
 
 ---
 
