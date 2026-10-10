@@ -43,7 +43,7 @@
 ## 📂 Proyectos destacados
 - [Obligatorio Programación 1](https://github.com/Dgeymo/Obligatorio_Programacion1) – E‑commerce deportivo en JavaScript.  
 - [Obligatorio Programación 2](https://github.com/Dgeymo/Obligatorio_Programacion2) – Aplicación con POO e interfaces.  
-- [Obligatorio Programación 3](https://github.com/Dgeymo/Obligatorio_Programaccion3) – Arquitectura distribuida con WebAPI y UML.  
+- [Obligatorio Programación 3](https://github.com/Dgeymo/Obligatorio_Programacion3) – Arquitectura distribuida con WebAPI y UML.  
 - [Obligatorio Full Stack – BackEnd](https://github.com/Dgeymo/Obligatorio_FullStack_BackEnd) – API REST con Node.js, Express y MongoDB.  
 - [Obligatorio Full Stack – FrontEnd](https://github.com/Dgeymo/Obligatorio_FullStack_FrontEnd) – Interfaz en React conectada al backend.  
 - [Obligatorio Algoritmos y Estructuras de Datos](https://github.com/Dgeymo/Obligatorio_Algoritmos_y_Estructuras_de_Datos) – Sistema de eventos en Java con listas, pilas, colas y pruebas unitarias con JUnit.  
@@ -51,6 +51,36 @@
 
 ---
 
+
+## Logros
+
+✅ Ayudante de Programación 2 y 3 – ORT Uruguay
+
+✅ Autor de react-mirrorball-3d en NPM
+
+✅ Titulado como Programador Web
+
+✅ Estudiante avanzado de Analista en TI
+
+---
+
+## Actualmente
+
+🔭 Profundizando en Arquitectura de Software
+
+🌱 Estudiando sistemas distribuidos y patrones de diseño
+
+👨‍🏫 Ayudante de Programación 2 y 3 en ORT Uruguay
+
+🎯 Objetivo: evolucionar hacia roles de Software Engineer y Solution Architect
+
+---
+
 ## 📫 Contacto
-- LinkedIn: [Diego Geymonat](https://www.linkedin.com/in/tu-perfil)  
+- LinkedIn: [Diego Geymonat](https://www.linkedin.com/in/dgeymonat)  
 - GitHub: [@Dgeymo](https://github.com/Dgeymo)
+
+
+https://github-readme-stats.vercel.app/api?username=Dgeymo&show_icons=true&theme=tokyonight
+![GitHub Streak](https://streak-stats.demymo&theme=tokyonight
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamet=compact&theme=tokyonight
