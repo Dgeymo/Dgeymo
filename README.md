@@ -1,10 +1,8 @@
-# Hola 👋, soy Diego Geymonat
+<h1 align="center">Hola 👋, soy Diego Geymonat</h1>
 
-🎓 Estudiante de Analista en Tecnologías de la Información en ORT Uruguay.
-
-💻 Desarrollo aplicaciones Full Stack utilizando .NET, Java, React, Node.js y bases de datos relacionales y NoSQL.
-
-🏗️ Interesado en arquitectura de software, sistemas distribuidos, DevOps y diseño de soluciones.
+<h3 align="center">
+  Full Stack Developer • .NET Developer • Software Architecture & Cloud Computing
+</h3>
 
 ---
 
